@@ -2,7 +2,7 @@
 *This project was developed for Huawei R&D department during its partnership with SPbSTU (Intelligent transport systems course).*
 
 ### Glossary
-***Translingual neurostimulation (TLNS)*** — way to directly and simultaneously activate multiple brain networks by natural spike flow generated 
+***Translingual neurostimulation (TLNS)*** — a way to directly and simultaneously activate multiple brain networks by natural spike flow generated 
 on the periphery. The non-invasive and safe “injection” of natural neural activity into damaged neural network initiates the recovery process, 
 based on mechanisms of activity-dependent plasticity (form of neuroplasticity). It uses sequenced patterns of  electrical stimulation on the anterior 
 dorsal surface of the tongue to stimulate the trigeminal and  facial  nerves.
@@ -25,7 +25,7 @@ Translingual Neuro Stimulating Devices have being created for rehabilitation of 
 - Parkinson's disease;
 - vestibular disorders, etc.
 
-Gentle electrical impulsesmpulses of the tongue provide sensory information about the position of patient's head/body. Impulses on the right side of the tongue mean patient is leaning to the right; impulses on the left side of the tongue mean patient is leaning to the left, etc. Brain uses this information to improve balance and posture systems.
+Gentle electrical stimulation of the tongue provide sensory information about the position of patient's head/body. Impulses on the right side of the tongue mean patient is leaning to the right; impulses on the left side of the tongue mean patient is leaning to the left, etc. Brain uses this information to improve balance and posture systems.
 
 This prototype represents a variation of Neuro Stimulatig Device, based on American [BrainPort Balance Plus](https://www.wicab.com/brainport-balance-plus) (prev. PoNS) 
 and Russian [NeuroPort](https://neyroport.ru/) (Нейропорт), except that one has 3x3 eletrode matrix (others have 143 electrodes in average).
