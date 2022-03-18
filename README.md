@@ -23,9 +23,9 @@ Translingual Neuro Stimulating Devices have being created for rehabilitation of 
 - stroke;
 - brain injury;
 - Parkinson's disease;
-- other vestibular disorders...
+- vestibular disorders, etc.
 
-Main principle is that impulses provide sensory information about the position of your head/body.  Impulses on the right side of your tongue mean you are leaning to the right; impulses on the left side of your tongue mean you are leaning to the left, etc. You use this information to help improve your balance and posture.
+Gentle electrical impulsesmpulses of the tongue provide sensory information about the position of patient's head/body. Impulses on the right side of the tongue mean patient is leaning to the right; impulses on the left side of the tongue mean patient is leaning to the left, etc. Brain uses this information to improve balance and posture systems.
 
 This prototype represents a variation of Neuro Stimulatig Device, based on American [BrainPort Balance Plus](https://www.wicab.com/brainport-balance-plus) (prev. PoNS) 
 and Russian [NeuroPort](https://neyroport.ru/) (Нейропорт), except that one has 3x3 eletrode matrix (others have 143 electrodes in average).
