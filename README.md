@@ -14,11 +14,20 @@ and targeted training designed for movement control rehabilitation.
 
 ## Usage
 1. Wire up Arduino following the schematics below;
-2. Upload sketch to Arduino use any IDE (Arduino IDE, VS Code);
-3. For visualisation, open the project with Processing and Run the code (make sure that Serial port isn't busy).
+2. Upload sketch to Arduino using any IDE (Arduino IDE, VS Code);
+3. For visualisation of the training open the project with Processing and Run the code (make sure that Serial port isn't busy).
 
 ## Information
-The device represents a variation of Neuro Stimulatig Devices, based on American [BrainPort Balance Plus](https://www.wicab.com/brainport-balance-plus) (prev. PoNS) 
+Translingual Neuro Stimulating Devices have being created for rehabilitation of patients that suffer from a wide range of balance disorders after/during:
+- cerebral palsy;
+- stroke;
+- brain injury;
+- Parkinson's disease;
+- other vestibular disorders...
+
+Main principle is that impulses provide sensory information about the position of your head/body.  Impulses on the right side of your tongue mean you are leaning to the right; impulses on the left side of your tongue mean you are leaning to the left, etc. You use this information to help improve your balance and posture.
+
+This prototype represents a variation of Neuro Stimulatig Device, based on American [BrainPort Balance Plus](https://www.wicab.com/brainport-balance-plus) (prev. PoNS) 
 and Russian [NeuroPort](https://neyroport.ru/) (Нейропорт), except that one has 3x3 eletrode matrix (others have 143 electrodes in average).
 
 The principle is – different tounge zones is stimulated depending on movements of patient's head, registrated by IMU. Stimulation characteristics was learned 
