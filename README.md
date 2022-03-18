@@ -56,8 +56,11 @@ the width of the triplets, but the pattern itself can be seen clearly.
 ![Triplets waveform](.github/assets/waveform.jpg)
 
 Lack of electrodes on the PCB is compensated by smooth transition between them. It is possible because pulse width for every electrode depends on its own cosine function 
-(saved in Flash memory in matrix), which affects voltage output, hence the power of stimulation and the "feeling of presence" on the tongue. Electrodes' cosine funcs are 
-distributed on the circle and restricted by it. General sensitivity map is shown below.
+(saved as a table in Flash memory), which affects voltage output, hence the power of stimulation and the "feeling of presence" on the tongue. Basic cosine func is illustrated below.
+
+![cosine_func](https://bit.ly/3N46Sck)
+
+Electrodes' cosine funcs are distributed on the circle and restricted by it. General sensitivity map is shown below.
 
 ![Electrodes Distribution Visualisation](.github/assets/distribution.png)
 
