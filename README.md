@@ -50,6 +50,7 @@ Components list:
 - Custom PCB with electrodes matrix;
 - IMU MPU-6050 (GY-521);
 - Potentiometer (50KOhm in my case);
+- Polymorph plastic for PCB's frame;
 - About 16 wires.
 
 ### Stimulation process
