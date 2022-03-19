@@ -27,7 +27,7 @@ Translingual Neuro Stimulating Devices have being created for rehabilitation of 
 
 Gentle electrical stimulation of the tongue provide sensory information about the position of patient's head/body. Impulses on the right side of the tongue mean patient is leaning to the right; impulses on the left side of the tongue mean patient is leaning to the left, etc. Brain uses this information to improve balance and posture systems.
 
-![photos](.github/photos.png)
+![photos](.github/assets/photos.png)
 
 This prototype represents a variation of Neuro Stimulatig Device, based on American [BrainPort Balance Plus](https://www.wicab.com/brainport-balance-plus) (prev. PoNS) 
 and Russian [NeuroPort](https://neyroport.ru/) (Нейропорт), except that one has 3x3 eletrode matrix (others have 143 electrodes in average).
