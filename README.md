@@ -35,6 +35,7 @@ from [NeuroPort's Documentation](https://neyroport.ru/pasport/):
 >Electrode impulse voltage — 14V.
 >
 >The system provides triplets with a width of 5-150 µs in intervals of 5 ms (i.e. 200 Hz) every 20 ms (50 Hz).
+
 Also, due to the limitation of Arduino's Output by 5V I've decided to extend the width of impulse by almost threefold (up to 420 µs).
 
 ### Schematics
