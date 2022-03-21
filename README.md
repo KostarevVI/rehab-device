@@ -15,7 +15,8 @@ and targeted training designed for movement control rehabilitation.
 ## Usage
 1. Wire up Arduino following the schematics below;
 2. Upload sketch to Arduino using any IDE (Arduino IDE, VS Code);
-3. For visualisation of the training open the project with Processing and Run the code (make sure that Serial port isn't busy).
+3. For visualisation of the training open the project with Processing and Run the code (make sure that Serial port isn't busy);
+4. Use Cosine Matrix Generator to obtain matrix with different resolution or function in Arduino format, then copy-paste it into sketch.
 
 ## Information
 Translingual Neuro Stimulating Devices have being created for rehabilitation of patients that suffer from a wide range of balance disorders after/during:
