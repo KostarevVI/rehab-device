@@ -76,7 +76,7 @@ Small visual interface was created in Processing. It shows:
 3. Which electrodes are active right now and their intensity (red points);
 4. Aditional text info (x-y-z coordinates, PWM triplet width).
 
-![Interface screenshot](/.github/assets/interface.png)
+![Interface screenshot](/.github/assets/interface.jpg)
 
 ## Demo
 ![Demo video of the device](/.github/assets/demo.gif)
