@@ -28,7 +28,7 @@ Translingual Neuro Stimulating Devices have being created for rehabilitation of 
 
 Gentle electrical stimulation of the tongue provide sensory information about the position of patient's head/body. Impulses on the right side of the tongue mean patient is leaning to the right; impulses on the left side of the tongue mean patient is leaning to the left, etc. Brain uses this information to improve balance and posture systems.
 
-![photos](/.github/assets/photos.png)
+![photos](/assets/photos.png)
 
 This prototype represents a variation of Neuro Stimulatig Device, based on American [BrainPort Balance Plus](https://www.wicab.com/brainport-balance-plus) (prev. PoNS) 
 and Russian [NeuroPort](https://neyroport.ru/) (Нейропорт), except that one has 3x3 eletrode matrix (others have 143 electrodes in average).
@@ -44,7 +44,7 @@ Also, due to the limitation of Arduino's Output by 5V I've decided to extend the
 ### Schematics
 The prototype uses custom-developed PCB board with 9 gold-plated electrodes and common ground (which isn't used because in every moment non-active electrodes are ground).
 
-![Arduino Schematics](/.github/assets/schematics.png)
+![Arduino Schematics](/assets/schematics.png)
 
 Components list:
 - Arduino Uno;
@@ -58,16 +58,16 @@ Components list:
 I didn't have oscilloscope to test the triplets, so I've made it from ESP8266 board and Arduino Serial Plotter. The resolution of Serial Plotter is too small to distinguish 
 the width of the triplets, but the pattern itself can be seen clearly.
 
-![Triplets waveform](/.github/assets/waveform.jpg)
+![Triplets waveform](/assets/waveform.jpg)
 
 Lack of electrodes on the PCB is compensated by smooth transition between them. It is possible because pulse width for every electrode depends on its own cosine function 
 (saved as a table in Flash memory), which affects voltage output, hence the power of stimulation and the "feeling of presence" on the tongue. Basic cosine func is illustrated below.
 
-![func](/.github/assets/func.jpg)
+![func](/assets/func.jpg)
 
 Electrodes' cosine funcs are distributed on the circle and restricted by it. General sensitivity map is shown below.
 
-![Electrodes Distribution Visualisation](/.github/assets/distribution.png)
+![Electrodes Distribution Visualisation](/assets/distribution.png)
 
 ### Interface
 Small visual interface was created in Processing. It shows:
@@ -76,7 +76,7 @@ Small visual interface was created in Processing. It shows:
 3. Which electrodes are active right now and their intensity (red points);
 4. Aditional text info (x-y-z coordinates, PWM triplet width).
 
-![Interface screenshot](/.github/assets/interface.jpg)
+![Interface screenshot](/assets/interface.jpg)
 
 ## Demo
-![Demo video of the device](/.github/assets/demo.gif)
+![Demo video of the device](/assets/demo.gif)
