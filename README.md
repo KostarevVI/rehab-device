@@ -1,4 +1,4 @@
-# Translingual Neuro Rehab Device
+# Translingual Neurorehabilitation Device
 *This project was developed for Huawei R&D department during its partnership with SPbSTU (Intelligent transport systems course).*
 
 ### Glossary
