@@ -1,5 +1,5 @@
 # Translingual Neurorehabilitation Device
-*This project was developed for Huawei R&D department during its partnership with SPbSTU (Intelligent transport systems course).*
+*This project was developed with Huawei R&D department during its partnership with SPbSTU (Intelligent transport systems course).*
 
 ### Glossary
 ***Translingual neurostimulation (TLNS)*** — a way to directly and simultaneously activate multiple brain networks by natural spike flow generated 
